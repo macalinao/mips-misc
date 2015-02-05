@@ -16,4 +16,3 @@ mul.s $f12, $f17, $f18
 li $v0, 2 # print float
 syscall
 # 6.389
-	
